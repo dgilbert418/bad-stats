@@ -1,6 +1,6 @@
-baseurl = "https://nanx.me/hugo-tanka/"
-title = "Hugo Tanka Theme"
-author = "Nan Xiao"
+baseurl = "https://www.bad-stats.com"
+title = "Bad Statistics"
+author = "Daniel Gilbert"
 canonifyurls = true
 languagecode = "en"
 theme = "hugo-tanka"
@@ -15,7 +15,7 @@ pygmentscodefences = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
-  sitename = "Hugo Tanka Theme"
+  sitename = "Bad Statistics"
 
 [[menu.main]]
     name = "Home"
